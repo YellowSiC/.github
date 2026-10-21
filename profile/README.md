@@ -4,7 +4,7 @@
       src="../docs/images/logo.png"
       alt="Y-SIC Logo – Watch Video"
       width="1200"
-      height="600"
+      height="800"
     />
   </a>
 
