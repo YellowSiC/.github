@@ -3,7 +3,7 @@
     <img
       src="../docs/images/logo.png"
       alt="Y-SIC Logo – Watch Video"
-      width="600"
+      width="1200"
     />
   </a>
 
