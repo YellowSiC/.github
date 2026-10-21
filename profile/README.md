@@ -1,12 +1,17 @@
 <div align="center">
   <a href="https://www.y-sic.com/videos/Y-SIC-Hero-Long.webm">
     <img
-      src="../docs/images/logo.png"
-      alt="Y-SIC Logo – Watch Video"
-      width="1200"
-      height="800"
+      src="https://raw.githubusercontent.com/YellowSiC/.github/main/docs/images/logo.png"
+      alt="Y-SIC Logo"
+      width="100%"
     />
   </a>
+
+  <p>
+    <a href="https://www.y-sic.com/videos/Y-SIC-Hero-Long.webm">
+      ▶ Watch Our Video
+    </a>
+  </p>
 
   <h3>Because it's our future.</h3>
   <h1>Infinitizer of SiC Value</h1>
